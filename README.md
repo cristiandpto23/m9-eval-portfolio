@@ -4,6 +4,8 @@
 
 Aplicación web para gestionar una librería con registro de usuarios, autenticación JWT y compra de libros.
 
+Puede verse desplegado y en funcionamiento [aquí](https://m9-eval-portfolio.onrender.com/) (en Render.com)
+
 ## Características
 
 -   Registro e inicio de sesión de usuarios con autenticación JWT
@@ -114,3 +116,4 @@ npm run dev
 ## Autor
 
 Cristian Ahumada
+
